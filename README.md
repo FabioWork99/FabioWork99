@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Análise+de+Dados;Machine+Learning;Desenvolvimento+Back-end;Python+&+Flask" alt="Typing SVG" />
 </p>
 
----
+----
 
 ## 👨‍💻 Sobre mim
 
